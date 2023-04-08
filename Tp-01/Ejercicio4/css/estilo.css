@@ -1,0 +1,34 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: pink;
+}
+table{
+    border: 0.2em solid white;
+    margin-top: 5%;
+    margin-left: 35%;
+    text-align: center;
+}
+caption{
+    padding: 1em
+}
+tbody{
+    background-color: black;
+    color: white;   
+}
+caption{
+    background-color: gray;
+    color: white;
+}
+th,td{
+    padding: 1em;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 3em;
+}
