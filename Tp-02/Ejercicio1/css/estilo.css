@@ -1,0 +1,41 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+main{
+    display: flex;
+}
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+aside{
+    width: 25%;
+    height: 80%;
+    background-color: gray;
+}
+nav{
+    text-align: center;
+    margin: 25%;
+    
+}
+ul li{
+    list-style: none;
+    padding: 1em;
+    border: 0.5em solid white;
+    background-color: blueviolet;
+
+}
+article{
+    width: 75%;
+    background-color: pink;
+}
+article p{
+    margin: 1em;
+}
+footer{
+    background-color: black;
+    color: white;
+}

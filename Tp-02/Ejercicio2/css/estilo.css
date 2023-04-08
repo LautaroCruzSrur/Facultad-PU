@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: purple;
+}
+h2{
+    text-align: left;
+    color: white;
+    background-color:rgb(0, 225, 255);
+    width: 40%;
+}
+h3{
+    color: rgba(0, 0, 255, 0.733);
+}
+li{
+    display: flex;
+    list-style: none;
+}
