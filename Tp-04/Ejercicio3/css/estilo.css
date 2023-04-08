@@ -1,0 +1,32 @@
+*{
+    border:0;
+    padding:0;
+    margin:0;
+}
+main{
+    margin:1%;
+}
+form{
+    background-color:lightgreen;
+    display:flex;
+    flex-direction:column
+    
+}
+#deposito{
+    width: 60%;
+    margin:1%;
+    border:0.1em solid black;
+}
+h1{
+    background-color:lightgreen;
+    text-align:center
+}
+h2{
+    background-color: rgba(16, 161, 16, 0.726);
+}
+p:nth-child(odd){
+            background-color: lightcoral;
+}
+p:nth-child(even){
+    background-color: lightblue;
+}

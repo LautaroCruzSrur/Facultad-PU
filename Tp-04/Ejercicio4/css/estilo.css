@@ -1,0 +1,19 @@
+*{
+    border:0;
+    padding:0;
+    margin:0;
+}
+form{
+    margin:1em;
+    background-color:rgb(255, 197, 197);
+}
+input{
+    border:1px;
+}
+#login{
+    margin: 1%;
+}
+p{
+    background-color:plum;
+    margin:1em;
+}

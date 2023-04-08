@@ -1,0 +1,19 @@
+*{
+    border:0;
+    padding:0;
+    margin:0;
+}
+table{
+    margin-left: 25%;
+    border:0.5em solid black;
+}
+caption{
+    background-color:aquamarine;
+}
+thead,th tr{
+    background-color:black;
+    color:white
+}
+tbody tr{
+    border:0.1em solid black;
+}

@@ -1,0 +1,41 @@
+*{
+    border:0;
+    padding:0;
+    margin:0;
+}
+main{
+    background-color:orange;
+    width:30%;
+    height:40%;
+    margin-left: 30%;
+}
+#Cueva{
+    
+    background-color:rgb(12, 39, 12);
+    color:white;
+}
+h2{
+    background-color:rgb(28, 143, 28);
+}
+#dinero{
+    background-color:lawngreen;
+}
+#monc{
+    background-color:beige;
+}
+form{
+    text-align:left;
+    margin-left: 5%;
+    display:flex;
+    flex-direction: column;
+}
+#monto #crypto{
+    margin: 1%;
+    height:20%;
+    width:70%;
+}
+input[submit]{
+    margin: 5%;
+    height:20%;
+    width:70%;
+}
