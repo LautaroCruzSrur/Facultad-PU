@@ -1,0 +1,25 @@
+*{
+    border:0;
+    padding:0;
+    margin:0;
+}
+
+article{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+table{
+    width: 20%;
+    background-color: green;
+}
+td{
+    border:1em solid yellow;
+    border-radius: 1em;
+    color: black;
+    background-color: yellow;
+}
+img{
+    width: 30%;
+    height: 30%;
+}

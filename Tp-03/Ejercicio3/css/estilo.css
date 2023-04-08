@@ -1,0 +1,30 @@
+*{
+    border: 0;
+    padding: 0;
+    border: 0;
+}
+aside{
+    width:100%;
+}
+h1{
+    text-align: center;
+    background-color: blue;
+}
+h2{
+    text-align: left;
+    background-color: green;
+}
+table{
+    margin-left: 25%;
+    border: 0.5em solid black;
+}
+thead{
+    background-color:rgb(0, 0, 145);
+    color:white;
+}
+tbody tr:nth-child(even){
+    background-color:rgb(39, 39, 179);
+}
+tbody tr:nth-child(odd){
+    background-color:gray;
+}
